@@ -3,7 +3,7 @@ import folium
 import webbrowser
 from geopy.distance import geodesic
 
-df = pd.read_csv("apagao_log_test.csv")
+df = pd.read_csv("apagao_log.csv")
 
 if not df.empty:
     lat_media = df["latitude"].mean()
