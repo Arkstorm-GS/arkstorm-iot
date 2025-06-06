@@ -8,6 +8,8 @@ Este projeto propõe um sistema de detecção de apagões com uso de visão comp
 * Guilherme Morais (RM551981)
 * Matheus Gusmão (RM550826)
 
+Video da solução: https://youtu.be/-ryEcuMbZtg
+
 ## 📦 Funcionalidades
 
 * Detecção de gestos de mão em tempo real
